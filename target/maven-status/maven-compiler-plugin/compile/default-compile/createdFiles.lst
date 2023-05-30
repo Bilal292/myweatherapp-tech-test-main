@@ -1,0 +1,4 @@
+com/weatherapp/myweatherapp/service/WeatherService.class
+com/weatherapp/myweatherapp/controller/WeatherController.class
+com/weatherapp/myweatherapp/model/Days.class
+com/weatherapp/myweatherapp/model/CurrentConditions.class
